@@ -15,30 +15,84 @@
 
 !SLIDE
 
-# ДТП
 <img src="images/vez.jpg" alt="" width="800">
 
 !SLIDE
 
-# Ремонт
 <img src="images/ravshan.jpg" alt="" width="800">
 
 !SLIDE
 
-# Пробки
 <img src="images/slide_2.jpg" alt="" width="800">
 
 !SLIDE
 
-# ДПС
 <img src="images/slide_4.jpg" alt="" width="800">
 
 !SLIDE
 
-## **Радиостанции**
-## **Яндекс.пробки** (с дек. 2011)
-## **Рамблер.пробки** (убогие)
-## **Навител.пробки** (ущербные)
+<img src="images/slide_5.jpg" alt="" width="800">
+
+!SLIDE
+
+# Яндекс.пробки
+декабрь 2011  
+## Источник
+мобильное приложение Яндекс.Карты
+## Экспорт
+Автоспутник, NAVIFON, Be-On-Road, Garmin-ASUS, SHTURMANN
+
+!SLIDE
+
+<img src="images/ya_scheme.png" alt="" width="800">
+
+!SLIDE
+
+<table>
+	<tr>
+		<td>
+			<img src="images/iphone_yandex_1.jpg" alt="" width="300" height="450">
+		</td>
+		<td>
+			<img src="images/iphone_yandex_3.jpg" alt="" width="300" height="450">
+		</td>
+		<td>
+			<img src="images/iphone_yandex_2.jpg" alt="" width="300" height="450">
+		</td>
+	</tr>
+</table>
+
+!SLIDE
+
+<img src="images/yandex_browser.jpg" alt="" width="800">
+
+!SLIDE
+
+# Яндекс.Навигатор
+
+<img src="images/yandex_navigator.jpg" alt="" height="600">
+
+!SLIDE
+
+# Рамблер.пробки
+осень 2011
+## Источник
+навигационная система ПроГород  
+мобильное приложение Rambler.карты
+
+!SLIDE
+
+<img src="images/ramler_probki.jpg" alt="" width="800">
+
+!SLIDE
+
+<img src="images/iphone_rambler.jpg" alt="" height="600">
+
+!SLIDE
+
+# Навител.пробки
+весна 2010
+<img src="images/navitel_browser.jpg" alt="" width="800">
 
 !SLIDE
 
@@ -46,11 +100,19 @@
 ## Анти-ГАИ Ульяновск
 ### Весна 2010
 * 11920 пользователей
-* 20000 запросов в сутки
+* 20000 запросов в сутки  
+
+<img src="images/icq-icon.png" alt="" width="200">
+
+!SLIDE
+
+<img src="images/icq.jpg" alt="" width="800">
 
 !SLIDE
 
 # #ulway
+
+<img src="images/twitter_ulway.jpg" alt="" width="800">
 
 !SLIDE
 
