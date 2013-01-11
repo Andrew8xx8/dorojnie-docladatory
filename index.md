@@ -16,9 +16,22 @@
 !SLIDE
 
 # ДТП
-# Пробки
-# ДПС
+<img src="images/vez.jpg" alt="" width="800">
+
+!SLIDE
+
 # Ремонт
+<img src="images/ravshan.jpg" alt="" width="800">
+
+!SLIDE
+
+# Пробки
+<img src="images/slide_2.jpg" alt="" width="800">
+
+!SLIDE
+
+# ДПС
+<img src="images/slide_4.jpg" alt="" width="800">
 
 !SLIDE
 
