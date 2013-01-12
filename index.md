@@ -183,12 +183,46 @@ Front-End :: jQuery Mobile
 
 !SLIDE
 
-
+# 15-16 декабря 2012
+## RAILSCLUB
 
 !SLIDE
 
-# 15-16 декабря 2012
-## RAILSCLUB
+# Twitter Bootstrap
+
+!SLIDE
+
+<table>
+	<tr>
+		<td>
+			<img src="images/tb_1.jpg" alt="" width="300" height="450">
+		</td>
+		<td>
+			<img src="images/tb_2.jpg" alt="" width="300" height="450">
+		</td>
+	</tr>
+</table>
+
+!SLIDE
+
+<img src="images/tb_3.jpg" alt="" width="450" height="300">
+<img src="images/tb_4.jpg" alt="" width="450" height="300">
+
+!SLIDE
+
+<img src="images/tb_5.jpg" alt="" width="800">
+
+!SLIDE
+
+<img src="images/tb_6.jpg" alt="" width="800">
+
+!SLIDE
+
+<img src="images/tb_7.jpg" alt="" width="600">
+
+!SLIDE
+
+<img src="images/tb_8.jpg" alt="" width="600">
 
 !SLIDE
 
