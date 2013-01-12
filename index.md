@@ -47,7 +47,7 @@
 
 !SLIDE
 
-<img src="images/ya_scheme.png" alt="" width="800">
+<img src="images/ya_scheme.png" alt="" height="600">
 
 !SLIDE
 
@@ -67,7 +67,7 @@
 
 !SLIDE
 
-<img src="images/yandex_browser.jpg" alt="" width="800">
+<img src="images/yandex_browser.jpg" alt="" height="600">
 
 !SLIDE
 
@@ -85,7 +85,7 @@
 
 !SLIDE
 
-<img src="images/ramler_probki.jpg" alt="" width="800">
+<img src="images/ramler_probki.jpg" alt="" height="600">
 
 !SLIDE
 
@@ -111,6 +111,10 @@
 * 20000 запросов в сутки  
 
 <img src="images/icq.jpg" alt="" width="800">
+
+!SLIDE
+
+<img src="images/siski.jpg" alt="" height="600">
 
 !SLIDE
 
@@ -352,7 +356,19 @@
 
 !SLIDE
 
-# Планы
-* фирменный стиль
-* блог
+# Будущее
+
+* Фирменный стиль Waytag.ru
+* Повышение качества фильтрации
+* Научить сервис отвечать на вопросы
+* Поиск новых источников информации
 * захват Мира >:(
+
+
+!SLIDE
+
+# Дмитрий Вислов
+* @vdv73rus
+
+# Кулаков Андрей
+* @8xx8
