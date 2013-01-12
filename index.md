@@ -39,6 +39,9 @@
 декабрь 2011  
 ## Источник
 мобильное приложение Яндекс.Карты
+
+!SLIDE
+
 ## Экспорт
 Автоспутник, NAVIFON, Be-On-Road, Garmin-ASUS, SHTURMANN
 
@@ -70,7 +73,7 @@
 
 # Яндекс.Навигатор
 
-<img src="images/yandex_navigator.jpg" alt="" height="600">
+<img src="images/yandex_navigator.jpg" alt="" height="500">
 
 !SLIDE
 
@@ -92,19 +95,20 @@
 
 # Навител.пробки
 весна 2010
-<img src="images/navitel_browser.jpg" alt="" width="800">
+<img src="images/navitel_browser.jpg" alt="" width="600">
 
 !SLIDE
 
 # ICQ-Бот
 ## Анти-ГАИ Ульяновск
-### Весна 2010
-* 11920 пользователей
-* 20000 запросов в сутки  
 
 <img src="images/icq-icon.png" alt="" width="200">
 
 !SLIDE
+
+### Весна 2010
+* 11920 пользователей
+* 20000 запросов в сутки  
 
 <img src="images/icq.jpg" alt="" width="800">
 
@@ -128,29 +132,69 @@
 
 !SLIDE
 
+## Фичи
+
+* Чтение сообщений из ICQ каждые 10 минут и репост сообщений в Twitter
+
+!SLIDE
+
+## Бэкенд
+
+* PHP скрипт из 170 строчек кода 
+* Twitter REST API
+* Web ICQ Lite
+
+!SLIDE
+
+<img src="images/ulway_1.png" alt="">
+
+!SLIDE
+
 <img src="images/twitter_lent.jpg" alt="" width="800">
 
 !SLIDE
 
-# Февраль 2012
+# Февраль 2012	
+
+## ulway.net
+
+Дима Вислов (fronted-jedi)  
 Андрей Кулаков (backend-ninja)  
-## SILEX
+
+!SLIDE
+
+## Фичи
+
+* Чтение сообщений из ICQ и хештега #ulway
+* Репост прочитанного в Twitter
+* Сайт ulway.net и возможность отправки сообщения через него
+* Список улиц для сайта
+
+!SLIDE
+
+## Бэкенд
+
+* Silex
+* Simfony::Console
+* Mysql
+* cron
+* Twitter REST API
+* mICQ
+
+!SLIDE
+
+<img src="images/ulway_2.png" alt="">
 
 !SLIDE
 
 <img src="images/photo_1.jpg" alt="" height="600">
 
 !SLIDE
-* более сложная фильтрация с учётам смысловой нагрузки;
-* сайт проекта с возможностью отправить сообщение с него;
-* чтение сообщений из реплаев твиттера;
-* рефакторинг бекенд части.
 
-!SLIDE
-# ulway.net
+## Фронтенд
 
-## конференция СТАЧКА
-Front-End :: jQuery Mobile
+* jQuery-Mobile
+* Twig
 
 !SLIDE
 
@@ -170,13 +214,6 @@ Front-End :: jQuery Mobile
 
 !SLIDE
 
-# апрель 2012
-### **305** followers
-# январь 2013
-### **763** followers
-
-!SLIDE
-
 # 14 ноября 2012
 ## Лампочка Ильича
 ### Первое место  "Лучшая группа в соцсетях"
@@ -193,7 +230,39 @@ Front-End :: jQuery Mobile
 !SLIDE
 
 # Waytag
-### Front-End :: Twitter Bootstrap
+
+!SLIDE
+
+## Фичи
+
+* Сайт waytag.ru и возможность отправки сообщения через него
+* Поддержка множества городов
+* Получение любых сообщений из твиттера по динамическим критериям
+* Репост в автоматическом и ручном режиме в Twitter
+* Няшная админка
+
+!SLIDE
+
+## Бэкенд
+
+* RoR
+* Twitter Streaming API +  REST API
+* Runit daemons
+* Postgres
+* Clodo Scale Server, NewRelic
+
+!SLIDE
+
+<img src="images/ulway_3.png" alt="">
+
+!SLIDE
+
+## Фронтенд
+
+* Twitter Bootstrap
+* CoffeScript
+* HAML
+* LESS, SCSS
 
 !SLIDE
 
@@ -223,11 +292,23 @@ Front-End :: jQuery Mobile
 
 !SLIDE
 
-<img src="images/tb_7.jpg" alt="" width="600">
+<img src="images/tb_7.jpg" alt="" height="600">
 
 !SLIDE
 
-<img src="images/tb_8.jpg" alt="" width="600">
+<img src="images/tb_8.jpg" alt="" height="600">
+
+!SLIDE
+
+<img src="images/wt_admin1.png" alt="" height="600">
+
+!SLIDE
+
+<img src="images/wt_admin2.png" alt="" height="600">
+
+!SLIDE
+
+<img src="images/wt-blog.png" alt="" height="600">
 
 !SLIDE
 
@@ -239,6 +320,9 @@ Front-End :: jQuery Mobile
 
 # 4 января 2013
 ## Эфир на ChebFM
+
+!SLIDE
+
 <img src="images/chebFM.jpg" alt="" width="800">
 
 !SLIDE
@@ -260,7 +344,7 @@ Front-End :: jQuery Mobile
 
 !SLIDE
 
-<img src="images/ulway_tshirt.jpg" alt="" width="800">
+<img src="images/ulway_tshirt.jpg" alt="" height="600">
 
 !SLIDE
 
@@ -271,5 +355,4 @@ Front-End :: jQuery Mobile
 # Планы
 * фирменный стиль
 * блог
-* дружба с ICQ
 * захват Мира >:(
