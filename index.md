@@ -183,12 +183,17 @@ Front-End :: jQuery Mobile
 
 !SLIDE
 
+<img src="images/lampfest.jpg" alt="" height="600">
+
+!SLIDE
+
 # 15-16 декабря 2012
 ## RAILSCLUB
 
 !SLIDE
 
-# Twitter Bootstrap
+# Waytag
+### Front-End :: Twitter Bootstrap
 
 !SLIDE
 
