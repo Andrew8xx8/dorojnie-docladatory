@@ -239,6 +239,7 @@ Front-End :: jQuery Mobile
 
 # 4 января 2013
 ## Эфир на ChebFM
+<img src="images/chebFM.jpg" alt="" width="800">
 
 !SLIDE
 
