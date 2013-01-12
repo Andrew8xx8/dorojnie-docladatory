@@ -128,9 +128,17 @@
 
 !SLIDE
 
+<img src="images/twitter_lent.jpg" alt="" width="800">
+
+!SLIDE
+
 # Февраль 2012
 Андрей Кулаков (backend-ninja)  
 ## SILEX
+
+!SLIDE
+
+<img src="images/photo_1.jpg" alt="" height="600">
 
 !SLIDE
 * более сложная фильтрация с учётам смысловой нагрузки;
@@ -146,6 +154,22 @@ Front-End :: jQuery Mobile
 
 !SLIDE
 
+<table>
+	<tr>
+		<td>
+			<img src="images/photo_0.jpg" alt="" width="300" height="450">
+		</td>
+		<td>
+			<img src="images/photo_3.jpg" alt="" width="300" height="450">
+		</td>
+		<td>
+			<img src="images/photo_6.jpg" alt="" width="300" height="450">
+		</td>
+	</tr>
+</table>
+
+!SLIDE
+
 # апрель 2012
 ### **305** followers
 # январь 2013
@@ -156,6 +180,10 @@ Front-End :: jQuery Mobile
 # 14 ноября 2012
 ## Лампочка Ильича
 ### Первое место  "Лучшая группа в соцсетях"
+
+!SLIDE
+
+
 
 !SLIDE
 
